@@ -11,5 +11,9 @@ namespace InClass20241121_IS3050
         {
             Console.WriteLine("Hello from HelloWord.SayHello"); 
         }
+        public static void SayBye()
+        {
+            Console.WriteLine("Bye from HelloWord.SayBye");
+        }
     }
 }
