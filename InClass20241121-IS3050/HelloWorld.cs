@@ -9,7 +9,7 @@ namespace InClass20241121_IS3050
     {
         public static void SayHello()
         {
-            Console.WriteLine("Hello from HelloWord.SayHello");
+            Console.WriteLine("Hello from HelloWord.SayHello"); 
         }
     }
 }
